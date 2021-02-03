@@ -1,0 +1,1 @@
+- [Java实现单例模式（懒汉式、饿汉式、双重检验锁、静态内部类方式、枚举方式）](https://blog.csdn.net/u011595939/article/details/79972371)
