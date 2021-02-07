@@ -89,10 +89,7 @@ public class AVLTree {
 				current = current.getRightChild();
 			}
 		}
-		if (current == null) {
-			return false;
-		}
-		return true;
+		return current != null;
 	}
 
 	/**
