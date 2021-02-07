@@ -1,4 +1,4 @@
-package algorSystemCourse.s3.c1.myCollections;
+package myCollections;
 
 import java.util.ArrayList;
 

@@ -2,6 +2,12 @@ package algorSystemCourse.s3.c1;
 
 import java.util.ArrayList;
 
+/**
+ * 最大堆:
+ * - 是个二叉堆
+ *  - 二叉堆首先是完全二叉树
+ * @param <E>
+ */
 public class MaxHeap<E extends Comparable<E>> {
     private ArrayList<E> data;
 
