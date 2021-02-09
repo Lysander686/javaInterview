@@ -22,12 +22,8 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
-<!--        <dependency>-->
-<!--            <groupId>com.h2database</groupId>-->
-<!--            <artifactId>h2</artifactId>-->
-<!--            <version>1.4.197</version>-->
-<!--            <scope>runtime</scope>-->
-<!--        </dependency>-->
+        <!-- https://mvnrepository.com/artifact/org.openjdk.jol/jol-core -->
+
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
