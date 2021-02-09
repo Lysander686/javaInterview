@@ -69,3 +69,4 @@ yarn-error.log*
 *.sw*
 
 package-lock.json
+/lib/jol-cli-0.14-javadoc/

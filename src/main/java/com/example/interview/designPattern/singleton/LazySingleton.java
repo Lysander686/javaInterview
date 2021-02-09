@@ -1,4 +1,4 @@
-package com.example.designPattern.singleton;
+package com.example.interview.designPattern.singleton;
 
 public class LazySingleton {
 

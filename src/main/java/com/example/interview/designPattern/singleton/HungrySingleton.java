@@ -1,4 +1,4 @@
-package com.example.designPattern.singleton;
+package com.example.interview.designPattern.singleton;
 
 /**
  * 饿汉式：加载类的时候，就创建了对象
