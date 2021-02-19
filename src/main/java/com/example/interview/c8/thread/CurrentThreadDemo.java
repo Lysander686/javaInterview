@@ -1,4 +1,4 @@
-package com.example.interview.thread;
+package com.example.interview.c8.thread;
 
 public class CurrentThreadDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.interview.thread;
+package com.example.interview.c8.thread;
 
 
 // 并发编程面试题: https://thinkwon.blog.csdn.net/article/details/104863992

@@ -36,7 +36,6 @@ public class TestMapSizeInMemory {
             m.put(String.valueOf(i), wordList[num]);
         }
 
-
         System.out.println(m.toString());
 //        System.out.println("size:" + ObjectSizeFetcher.getObjectSize(m));
 
