@@ -1,4 +1,4 @@
-package com.example.interview.c8.thread.threadWithPromise;
+package com.example.interview.c8.thread.withPromise;
 
 class ThreadA implements Runnable {
     private int counter;
@@ -28,7 +28,7 @@ class ThreadB implements Runnable {
 }
 
 // 方法二: 使用Thread 的join(),
-public class ThreadTester_m2 {
+public class m2_ThreadTester {
 
     public static void main(String[] args) throws InterruptedException {
         Thread t1 = new Thread(new ThreadA());

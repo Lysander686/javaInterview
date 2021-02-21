@@ -1,11 +1,11 @@
-package com.example.interview.c8.thread.threadWithPromise;
+package com.example.interview.c8.thread.withPromise;
 
 import com.example.interview.c8.thread.MyCallable;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
-public class FutureTaskDemo_m3 {
+public class m3_FutureTaskDemo {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
 
         // 确保线程已经执行完毕

@@ -1,4 +1,4 @@
-package javaAdvanced.jvm;
+package javaAdvanced.javaVirtualMachine;
 
 import java.lang.instrument.Instrumentation;
 

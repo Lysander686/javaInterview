@@ -1,9 +1,9 @@
-package com.example.interview.c8.thread.threadWithPromise;
+package com.example.interview.c8.thread.withPromise;
 
 import java.util.concurrent.*;
 
 // 方法三 之 2:  使用Callable接口实现
-public class Callable_m3_2 {
+public class m3_2_Callable {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
         //创建一个线程池
         ExecutorService pool = Executors.newFixedThreadPool(2);

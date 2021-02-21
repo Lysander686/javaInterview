@@ -2,7 +2,7 @@
 # secret files
 # front end
 **/.env
-
+**/java-offer-bus
 
 HELP.md
 target/

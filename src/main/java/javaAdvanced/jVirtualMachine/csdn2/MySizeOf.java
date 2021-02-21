@@ -1,4 +1,4 @@
-package javaAdvanced.jvm.csdn2;
+package javaAdvanced.javaVirtualMachine.csdn2;
 
 import java.lang.instrument.Instrumentation;
 

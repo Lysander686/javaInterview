@@ -1,4 +1,4 @@
-package javaAdvanced.jvm;
+package javaAdvanced.javaVirtualMachine;
 
 public class Apple extends Fruit {
 	private int size;

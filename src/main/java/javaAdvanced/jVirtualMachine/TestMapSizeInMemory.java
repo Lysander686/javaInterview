@@ -1,4 +1,4 @@
-package javaAdvanced.jvm;
+package javaAdvanced.javaVirtualMachine;
 
 
 //import org.openjdk.jol.info.ClassLayout;

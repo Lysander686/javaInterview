@@ -1,12 +1,12 @@
-package com.example.interview.c8.thread.threadWithPromise;
+package com.example.interview.c8.thread.withPromise;
 
 // 主线程等待法: not recommended
-public class MyThread_m1 extends Thread {
+public class m1_MyThread extends Thread {
     private String value1;
     private String value2;
 
     public static void main(String[] args) throws Exception {
-        MyThread_m1 thread = new MyThread_m1();
+        m1_MyThread thread = new m1_MyThread();
         thread.start();
         while (thread.value1 == null || thread.value2 == null) sleep(100);
         System.out.println("value1:" + thread.value1);
