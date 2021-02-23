@@ -1,4 +1,4 @@
-package com.example.interview.c8.thread.web.threadPool;
+package com.example.interview.c8.thread.webTutorial.threadPool;
 
 import lombok.Getter;
 

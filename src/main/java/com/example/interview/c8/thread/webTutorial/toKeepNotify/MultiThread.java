@@ -1,4 +1,4 @@
-package com.example.interview.c8.thread.web.toKeepNotify;
+package com.example.interview.c8.thread.webTutorial.toKeepNotify;
 
 //第二个类 Multithread
 public class MultiThread {

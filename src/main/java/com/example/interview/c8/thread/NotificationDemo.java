@@ -1,6 +1,6 @@
 package com.example.interview.c8.thread;
 
-import com.example.interview.c8.thread.web.threadPool.Task;
+import com.example.interview.c8.thread.webTutorial.threadPool.Task;
 
 import java.util.Arrays;
 import java.util.concurrent.Executors;
@@ -40,7 +40,7 @@ public class NotificationDemo {
             }
         };
 
-
+        // 改造使得主线程可以结束执行
         ThreadPoolExecutor threadPool = (ThreadPoolExecutor) Executors.newFixedThreadPool(1);
 
         //starting all waiting thread
@@ -78,8 +78,7 @@ public class NotificationDemo {
     private synchronized void shouldGo() throws InterruptedException {
 
         while (!go) {
-            System.out.println(Thread.currentThread()
-                    + " is going to wait on this object");
+//            System.out.println(Thread.currentThread()                    + " is going to wait on this object");
             wait(); //release lock and reacquires on wakeup
             System.out.println(Thread.currentThread() + " is woken up");
         }
@@ -91,12 +90,11 @@ public class NotificationDemo {
      */
     private synchronized void go() {
         while (!go) {
-            System.out.println(Thread.currentThread()
-                    + " is going to notify all or one thread waiting on this object");
+//            System.out.println(Thread.currentThread()                    + " is going to notify all or one thread waiting on this object");
 
             go = true; //making condition true for waiting thread
-            //notify(); // only one out of three waiting thread WT1, WT2,WT3 will woke up
-            notifyAll(); // all waiting thread  WT1, WT2,WT3 will woke up
+            notify(); // only one out of three waiting thread WT1, WT2,WT3 will woke up
+//            notifyAll(); // all waiting thread  WT1, WT2,WT3 will woke up
         }
 
     }
