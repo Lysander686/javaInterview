@@ -1,4 +1,4 @@
-package com.example.interview.c8.thread.threadWithPromise;
+package com.example.interview.c8.thread.withPromise;
 
 import java.util.concurrent.*;
 

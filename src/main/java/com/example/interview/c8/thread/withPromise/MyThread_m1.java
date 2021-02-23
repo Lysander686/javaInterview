@@ -1,4 +1,4 @@
-package com.example.interview.c8.thread.threadWithPromise;
+package com.example.interview.c8.thread.withPromise;
 
 // 主线程等待法: not recommended
 public class MyThread_m1 extends Thread {

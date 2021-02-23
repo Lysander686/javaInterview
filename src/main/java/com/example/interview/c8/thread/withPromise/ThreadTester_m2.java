@@ -1,4 +1,4 @@
-package com.example.interview.c8.thread.threadWithPromise;
+package com.example.interview.c8.thread.withPromise;
 
 class ThreadA implements Runnable {
     private int counter;
