@@ -13,7 +13,8 @@ public class FrameworkApplication {
     public static void main(String[] args) {
         ApplicationContext ctx = (ApplicationContext) SpringApplication.run(FrameworkApplication.class);
         Person person = ctx.getBean(Person.class);
-        System.out.println(person.toString());
+//        System.out.println(person.toString());
+        person.call();
     }
 
 }
