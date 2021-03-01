@@ -1,4 +1,4 @@
-package javaAdvanced.javaVirtualMachine;
+package javaAdvanced.jvm;
 
 public class NewObjectTest {
     public static void main(String[] args) {

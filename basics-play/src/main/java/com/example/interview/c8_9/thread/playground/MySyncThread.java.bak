@@ -1,0 +1,20 @@
+package com.example.interview.c8_9.thread.playground;
+
+public class MySyncThread implements Runnable{
+
+    public final String ASYNC = "A";
+
+    @Override
+    public void run() {
+        String threadName = Thread.currentThread().getName();
+        if (threadName.startsWith(ASYNC)){
+            async();
+        }
+    }
+
+
+    private void async(){
+        System.out.println("async start");
+    }
+
+}
