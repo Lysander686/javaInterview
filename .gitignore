@@ -1,5 +1,6 @@
 ./java-offer-bus
 lib/jol-cli-0.14-javadoc/**
+.idea/
 
 # java.gitignore + frontend.gitignore
 # secret files
