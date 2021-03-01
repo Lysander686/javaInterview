@@ -1,11 +1,8 @@
-./java-offer-bus
-lib/jol-cli-0.14-javadoc/**
-
 # java.gitignore + frontend.gitignore
 # secret files
 # front end
 **/.env
-
+**/java-offer-bus
 
 HELP.md
 target/
@@ -72,3 +69,4 @@ yarn-error.log*
 *.sw*
 
 package-lock.json
+/lib/jol-cli-0.14-javadoc/

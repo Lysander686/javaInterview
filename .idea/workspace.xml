@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8b99020-f335-4890-925b-a2bdcb829b1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/inz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jol-cli-0.14-full.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jol-cli-0.14-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HiWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorSystemCourse/s2/w8/c1/BSTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorSystemCourse/s3/c1/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorSystemCourse/s3/w12/fromGithub/AVLTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorSystemCourse/s3/w12/fromGithub/AVLTreeAutoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorSystemCourse/s3/w12/fromGithub/AVLTreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorSystemCourse/s3/w12/fromGithub/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorSystemCourse/s3/w12/fromGithub/NodeAlreadyExistsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/JavaInterviewApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/CurrentThreadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/DeadLockDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/InterruptDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/MyCallable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/MyRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/NotificationDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/RunnableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/ThreadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/ThreadPoolDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/ThreadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/WaitSleepDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/YieldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/webTutorial/threadPool/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/webTutorial/threadPool/ThreadPoolExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/webTutorial/toKeepNotify/MultiThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/webTutorial/toKeepNotify/ThreadState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/withPromise/Callable_m3_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/withPromise/FutureTaskDemo_m3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/withPromise/MyThread_m1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/withPromise/ThreadTester_m2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/c8/thread/withPromise/dir.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/designPattern/singleton/HungrySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/designPattern/singleton/LazySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/designPattern/singleton/singletonDesignPattern.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/interview/throwable/ErrAndException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/haveFunAlgor/c13/FileIOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/haveFunAlgor/c13/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/haveFunAlgor/c13/RBTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAdvanced/jvm/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAdvanced/jvm/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAdvanced/jvm/NewObjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAdvanced/jvm/ObjectSizeFetcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAdvanced/jvm/TestMapSizeInMemory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAdvanced/jvm/csdn2/MySizeOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAdvanced/jvm/csdn2/Test001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAdvanced/jvm/util/ObjectSizeFetcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaBasics/generics/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaBasics/generics/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaBasics/kwd/HelloNative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaBasics/sync/SynchronizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaBasics/sync/VolatileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myCollections/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myCollections/BinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myCollections/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wangdao/ch7/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wangdao/ch7/TestArr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/JavaInterviewApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p43oaobcTHlrslM0L8LIrum74m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8b99020-f335-4890-925b-a2bdcb829b1f" name="Default Changelist" comment="" />
+      <created>1614428710280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614428710280</updated>
+      <workItem from="1614428718198" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="52" key="new project wizard" timestamp="1614428791240">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="52" key="new project wizard/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1614428791240" />
+  </component>
+</project>
