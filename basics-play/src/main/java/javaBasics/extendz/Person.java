@@ -1,18 +1,19 @@
 package javaBasics.extendz;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 @Getter
 @Setter
+@AllArgsConstructor
+@NoArgsConstructor
+//@RequiredArgsConstructor
 public class Person {
-    private String name;
+    private String name = "no name";
     private int age = 1;
 
     public static void main(String[] args) {
         Person person = new Person();
         person.privateMethod();
-
     }
 
     private void privateMethod() {
@@ -20,6 +21,7 @@ public class Person {
     }
 
     void friendlyMethod() {
+
         System.out.println("friend");
     }
 
