@@ -4,8 +4,9 @@ import javaBasics.extendz.Student;
 
 public class TestMain {
     public static void main(String[] args) {
-
-        Student student = new Student();
-        student.protectedMethod();
+        int a = 1;
+        if ((a = 0) != 1) {
+            System.out.println("y");
+        }
     }
 }
