@@ -1,9 +1,13 @@
 package javaBasics.generics;
 
 import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 
+@EqualsAndHashCode(callSuper = true)
 @Data
-public class Apple {
+@NoArgsConstructor
+public class Apple extends Plant {
 
 
     private String color;
