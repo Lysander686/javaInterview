@@ -4,6 +4,12 @@ import java.util.*;
 
 public class GenericsMain {
     public static void main(String[] args) {
+
+
+    }
+
+
+    public static void playWithList() {
         List<Apple> appleList = Arrays.asList(new Apple());
         List<Plant> plants = Arrays.asList(new Plant());
         List<Creature> creatures = Arrays.asList(new Creature());
