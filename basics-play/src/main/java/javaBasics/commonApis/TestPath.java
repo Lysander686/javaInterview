@@ -1,6 +1,6 @@
-package javaAdvanced.lambda;
+package javaBasics.commonApis;
 
-public class LambdaMain {
+public class TestPath {
     public static void main(String[] args) {
 
     }
