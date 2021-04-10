@@ -6,3 +6,5 @@
        - 另外，CountDownLatch 是不能够重用的，而 CyclicBarrier 是可以重用的。
 
     2. Semaphore 其实和锁有点类似，它一般用于控制对某组资源的访问权限。
+
+- [一文秒懂 Java java.util.concurrent.Future](https://www.twle.cn/c/yufei/javatm/javatm-basic-future.html)

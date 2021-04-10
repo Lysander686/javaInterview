@@ -15,7 +15,6 @@ public class m3_FutureTaskDemo {
             System.out.println("Task not finished.");
         }
 
-
         System.out.println("task return: " + task.get());
     }
 

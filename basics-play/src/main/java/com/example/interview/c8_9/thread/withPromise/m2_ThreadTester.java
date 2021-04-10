@@ -1,6 +1,6 @@
 package com.example.interview.c8_9.thread.withPromise;
 
-class ThreadA implements Runnable {
+class TaskA implements Runnable {
     private int counter;
 
     @Override
@@ -13,7 +13,7 @@ class ThreadA implements Runnable {
     }
 }
 
-class ThreadB implements Runnable {
+class TaskB implements Runnable {
 
     private int i;
 
@@ -31,8 +31,8 @@ class ThreadB implements Runnable {
 public class m2_ThreadTester {
 
     public static void main(String[] args) throws InterruptedException {
-        Thread t1 = new Thread(new ThreadA());
-        Thread t2 = new Thread(new ThreadB());
+        Thread t1 = new Thread(new TaskA());
+        Thread t2 = new Thread(new TaskB());
         t1.start();
         t1.join(); // wait t1 to be finished
         t2.start();
