@@ -8,7 +8,7 @@ public class MyCallable implements Callable<String> {
         String value = "test";
         System.out.println("ready to work");
         // 相当于异步代码
-        Thread.currentThread().sleep(1000);
+        Thread.sleep(1000);
         System.out.println("Task done");
         return value;
     }

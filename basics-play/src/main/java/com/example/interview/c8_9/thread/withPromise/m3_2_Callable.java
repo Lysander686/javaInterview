@@ -21,15 +21,15 @@ public class m3_2_Callable {
     }
 }
 
-class MyCallable implements Callable {
-    private String oid;
+  class MyCallable implements Callable {
+      private String oid;
 
-    MyCallable(String oid) {
-        this.oid = oid;
-    }
+      MyCallable(String oid) {
+          this.oid = oid;
+      }
 
-    @Override
-    public Object call() throws Exception {
-        return oid + "任务返回的内容";
-    }
+      @Override
+      public Object call() throws Exception {
+          return oid + "任务返回的内容";
+      }
 }

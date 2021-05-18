@@ -9,13 +9,13 @@ public class m3_FutureTaskDemo {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
 
         // 确保线程已经执行完毕
-        FutureTask<String> task = new FutureTask<>(new MyCallable());
-        new Thread(task).start();
-        if (!task.isDone()) {
+        FutureTask<String> futureTask = new FutureTask<>(new MyCallable());
+        new Thread(futureTask).start();
+        if (!futureTask.isDone()) {
             System.out.println("Task not finished.");
         }
 
-        System.out.println("task return: " + task.get());
+        System.out.println("futureTask return: " + futureTask.get());
     }
 
     public static class CycleWait implements Runnable {
@@ -34,7 +34,7 @@ public class m3_FutureTaskDemo {
 
         public void run() {
             try {
-                Thread.currentThread().sleep(5000);
+                Thread.sleep(5000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

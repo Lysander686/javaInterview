@@ -2,12 +2,13 @@ package javaBasics.interfaces;
 
 public interface Animal {
 
+    default void selfIntro() {
+        System.out.println("I'm an animal.");
+    }
 
-
-    interface Mammal {
+    interface InnerMammal {
 
         void wayToBeBorn();
 
     }
-
 }
